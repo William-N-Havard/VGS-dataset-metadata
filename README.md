@@ -5,7 +5,7 @@
 **The Japanese dataset we used for our experiments is now [avaiblable on Zenodo](https://doi.org/10.5281/zenodo.1495070) ([![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1495070.svg)](https://doi.org/10.5281/zenodo.1495070))**
 This dataset consists of synthetically spoken captions for the [STAIR dataset](https://arxiv.org/abs/1705.00823). Following the same methodology as Chrupała _et al._ (see [article](https://arxiv.org/abs/1702.01991) | [dataset](https://zenodo.org/record/400926#.W_er6mVKjmH) | [code](https://github.com/gchrupala/visually-grounded-speech)) we generated speech for each caption of the STAIR dataset using Google's Text-to-Speech API.
 
-This dataset was used for visually grounded speech experiments (paper submitted at ICASSP2019, pending review).
+This dataset was used for visually grounded speech experiments (see [article](https://arxiv.org/abs/1902.03052) accepted at ICASSP2019).
 
 ```latex
 @INPROCEEDINGS{8683069, 
