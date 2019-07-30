@@ -7,6 +7,21 @@ This dataset consists of synthetically spoken captions for the [STAIR dataset](h
 
 This dataset was used for visually grounded speech experiments (paper submitted at ICASSP2019, pending review).
 
+```latex
+@INPROCEEDINGS{8683069, 
+author={W. N. {Havard} and J. {Chevrot} and L. {Besacier}}, 
+booktitle={ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+title={Models of Visually Grounded Speech Signal Pay Attention to Nouns: A Bilingual Experiment on English and Japanese}, 
+year={2019}, 
+volume={}, 
+number={}, 
+pages={8618-8622}, 
+keywords={information retrieval;natural language processing;neural nets;speech processing;word processing;artificial neural attention;human attention;monolingual models;part-of-speech tags;nouns;neural models;visually grounded speech signal;English language;Japanese language;word endings;cross-lingual speech-to-speech retrieval;grounded language learning;attention mechanism;cross-lingual speech retrieval;recurrent neural networks.}, 
+doi={10.1109/ICASSP.2019.8683069}, 
+ISSN={2379-190X}, 
+month={May},}
+```
+
 The dataset comprises the following files :
 
 -   **mp3-stair.tar.gz** :  MP3 files of each caption in the STAIR dataset. Filenames have the following pattern _imageID_captionID_, where both _imageID_ and _captionID_ correspond to those provided in the original dataset (see annotation format [here](http://captions.stair.center/download/))
